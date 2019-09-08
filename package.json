@@ -1,0 +1,23 @@
+{
+  "name": "reactjs-test",
+  "version": "1.0.0",
+  "description": "Reactjs project for learning, testing",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rparsi/reactjs-test.git"
+  },
+  "author": "Rahi Parsi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rparsi/reactjs-test/issues"
+  },
+  "homepage": "https://github.com/rparsi/reactjs-test#readme"
+}
