@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://rahi.reactjs-test.com",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
